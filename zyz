@@ -16,7 +16,7 @@
 <span>*</span>
 <br />
 <div id="height-validate"></div>
-<input id="calculate" type="buton" value="计算" />
+<input id="calculate" type="submit" value="计算" />
 <br />
 <label>周长：</label>
 <input disabled="disabled" id="perimeter" type="text" />
