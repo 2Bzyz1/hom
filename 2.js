@@ -10,8 +10,8 @@ var a = "";
         alert("必须输入数值！");
     }
     else {
-        p=2*(w+h);
-        a=w*h;
+        p=2*(w*10+h*10)/10;
+        a=(w*10)*(h*10)/100;
     }
     document.getElementById("perimeter").value = p;
     document.getElementById("area").value = a;
