@@ -5,7 +5,7 @@
 <link href="1.css" rel="stylesheet" />
 </head>
 <body>
-<div class="mian">
+<div class="main">
 <label>宽度：</label>
 <input id="width" autofocus="" type="text" />
 <span>*</span>
