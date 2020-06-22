@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8" />
 <title>矩形计算器</title>
-<link herf="1.css" rel="stylesheet" />
+<link href="1.css" rel="stylesheet" />
 </head>
 <body>
 <div class="mian">
