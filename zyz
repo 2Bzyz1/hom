@@ -24,6 +24,6 @@
 <label>面积：</label>
 <input disabled="disabled" id="area" type="text" />
 </div>
-<script src="2.js></script>
+<script src="2.js"></script>
 </body>
 </html>
